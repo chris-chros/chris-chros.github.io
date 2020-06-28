@@ -14,3 +14,6 @@ His wife is no dentist, his son isn´t (in fact, he is a police officer in his s
 My favourite quote is:
 > Hi, my name is Ben Harper.
 > I am a dentist
+
+
+<img src="http://www.bbc.co.uk/staticarchive/3e58d23221d25e53ec357c5f5e39104a0ebe6f50.jpg"/>
