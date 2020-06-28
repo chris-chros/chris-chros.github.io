@@ -10,3 +10,7 @@ His wife is no dentist, his son isn´t (in fact, he is a police officer in his s
 * loves chocolate
   * like everybody does
   * me too
+  
+My favourite quote is:
+> Hi, my name is Ben Harper.
+> I am a dentist
